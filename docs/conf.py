@@ -1,5 +1,4 @@
-
-project = 'NordPass'
+project = 'NordPass Password Manager'
 author = 'Your Name'
 release = '1.0'
 
